@@ -6,6 +6,7 @@
 - api-change
 - bugfix
 - cleanup/refactor
+- configuration
 - design
 - documentation
 - test
@@ -23,8 +24,3 @@ Fixes #
 
 **Any important notes for reviewers?**:
 
-**Please consider adding some release notes**:
-
-```release-note
-
-```
